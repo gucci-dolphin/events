@@ -21,7 +21,7 @@
         "audeince": "Everyone",
         "contact_info": "BYU Movies",
         "filters": "Everyone, Fun",
-        "featured": "No"
+        "featured": "Yes"
     },
     {
         "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
@@ -45,7 +45,7 @@
         "audeince": "Everyone",
         "contact_info": "n/a",
         "filters": "Clubs, Fun",
-        "featured": "No"
+        "featured": "Yes"
     },
     {
         "id": "EDCD038C-036F-4C40-826F-61C88CD84DD2",
@@ -69,6 +69,6 @@
         "audeince": "Everyone",
         "contact_info": "n/a",
         "filters": "Clubs, Fun",
-        "featured": "No"
+        "featured": "Yes"
     }
 ]
