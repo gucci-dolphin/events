@@ -1,0 +1,79 @@
+[
+    {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+        "name": "Cupcake Party",
+        "date": "8/13/23",
+        "organization": "Dutch Club",
+        "start_time": "7pm",
+        "end_time": "9pm",
+        "description": "We eat cookies and have fun!!",
+        "audeince": "Everyone",
+        "contact_info": "n/a",
+        "filters": "Clubs, Fun",
+        "featured": "Yes"
+    },
+    {
+        "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+        "name": "Movie Night",
+        "date": "8/15/23",
+        "organization": "Movie Club",
+        "start_time": "10pm",
+        "end_time": "12pm",
+        "description": "Watching a fun movie!",
+        "audeince": "Everyone",
+        "contact_info": "BYU Movies",
+        "filters": "Everyone, Fun",
+        "featured": "No"
+    },
+    {
+        "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+        "name": "Football game",
+        "date": "8/18/23",
+        "organization": "BYU Sports",
+        "start_time": "6pm",
+        "end_time": "10pm",
+        "description": "Come cheer on BYU Football",
+        "audeince": "Everyone",
+        "contact_info": "BYU Athletics",
+        "filters": "Football, Fun, Sports",
+        "featured": "Yes"
+    },
+    {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DD1",
+        "name": "Lego Club Meeting",
+        "date": "8/13/23",
+        "organization": "Lego Club",
+        "start_time": "7pm",
+        "end_time": "9pm",
+        "description": "We eat cookies and have fun!!",
+        "audeince": "Everyone",
+        "contact_info": "n/a",
+        "filters": "Clubs, Fun",
+        "featured": "No"
+    },
+    {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DD2",
+        "name": "Dinosuar Hunting",
+        "date": "8/13/23",
+        "organization": "Dungeons and Dragons Club",
+        "start_time": "7pm",
+        "end_time": "9pm",
+        "description": "We eat cookies and have fun!!",
+        "audeince": "Everyone",
+        "contact_info": "n/a",
+        "filters": "Clubs, Fun",
+        "featured": "Yes"
+    },
+    {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DD3",
+        "name": "Comedy Club",
+        "date": "8/13/23",
+        "start_time": "7pm",
+        "end_time": "9pm",
+        "description": "We eat cookies and have fun!!",
+        "audeince": "Everyone",
+        "contact_info": "n/a",
+        "filters": "Clubs, Fun",
+        "featured": "Yes"
+    }
+]
