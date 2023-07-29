@@ -1,0 +1,26 @@
+[
+    {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+        "name": "Cupcake Party",
+        "date": "8/13/23",
+        "organization": "Dutch Club",
+        "start_time": "7pm",
+        "end_time": "9pm",
+        "description": "We eat cookies and have fun!!",
+        "audience": "Everyone",
+        "contact_info": "n/a",
+        "featured": "Yes"
+    },
+    {
+        "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+        "name": "Movie Night",
+        "date": "8/15/23",
+        "organization": "Movie Club",
+        "start_time": "10pm",
+        "end_time": "12pm",
+        "description": "Watching a fun movie!",
+        "audience": "Everyone",
+        "contact_info": "BYU Movies",
+        "featured": "No"
+    }
+]
